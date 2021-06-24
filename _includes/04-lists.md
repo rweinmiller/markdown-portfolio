@@ -1,3 +1,3 @@
-- all things food drinks
+- all things cuisine & drinks
 - I love my dog ✨ **Hugo**
 - I regret not including *ruby* in my GitHub handle
