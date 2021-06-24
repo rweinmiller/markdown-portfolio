@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- all things food drinks
+- I love my dog Hugo
+- I regret not including ruby in my GitHub handle
